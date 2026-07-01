@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-- 👨‍💻 My name is Douglas Drumond Kayama.
+- 👨‍💻 My name is Douglas Kayama.
 - 💑 Husband of [@letochie](https://github.com/letochie).
-- 🔭 I’m currently an engineering manager at Pipefy.
-- 🌱 I’m always working on improving my management skills.
+- 🔭 I’m freelancer at _Café Linear Tech & Dev_.
+- 🌱 I’m always working on improving my skills.
 - 📫 How to reach me: 
-    I'm on Twitter [@douglasdrumond](https://twitter.com/douglasdrumond), same user on [LinkedIn](https://www.linkedin.com/in/douglasdrumond), and you can check [my site](https://www.cafelinear.com).
+    I'm on [LinkedIn](https://www.linkedin.com/in/douglaskayama), and you can check [my site](https://douglaskayama.tech).
 - ⚡ Hobbies:
     - 📷 [Photography](https://flickr.com/photos/douglasdrumz) (analog, digital, smartphones, it doesn't matter)
-    - 🏍️ [Motorcyle](https://www.instagram.com/dkmichi)
-
 
 <!--
 **douglasdrumond/douglasdrumond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

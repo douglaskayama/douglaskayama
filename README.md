@@ -2,7 +2,7 @@
 
 - 👨‍💻 My name is Douglas Kayama.
 - 💑 Husband of [@letochie](https://github.com/letochie).
-- 🔭 I’m freelancer at _Café Linear Tech & Dev_.
+- 🔭 I’m a freelancer at _Café Linear Tech & Dev_.
 - 🌱 I’m always working on improving my skills.
 - 📫 How to reach me: 
     I'm on [LinkedIn](https://www.linkedin.com/in/douglaskayama), and you can check [my site](https://douglaskayama.tech).
